@@ -1,5 +1,8 @@
 # PCLMM
  The code implementation for the article "Towards Patronizing and Condescending Language in Chinese Videos: A Multimodal Dataset and Framework". The paper is currently under review for **ICASSP 2025**.
+
+ The link for this paper in arxiv is https://arxiv.org/abs/2409.05005
+ 
 # Dataset
 The PCLMM dataset can be downloaded at https://doi.org/10.5281/zenodo.13710863
 
