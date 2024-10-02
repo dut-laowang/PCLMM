@@ -3,6 +3,12 @@
 
  The link for this paper in arxiv is https://arxiv.org/abs/2409.05005
  
+ a) Data Collection. Refining annotation guidelines and gathering data from Bilibili. 
+ 
+ b) PCLMM dataset. A high-quality annotated dataset with PCL frame spans. 
+ 
+ c) MultiPCL detector. A cross-attention mechanism.
+ 
  ![Our framework for this paper.](https://github.com/dut-laowang/PCLMM/blob/main/figure/P8.PNG)
  
 # Dataset
