@@ -19,5 +19,18 @@ PCLMM - 715 annotated videos from chinese platform Bilibili
 You can download the dataset `Annotation.csv` for detailed annotation.
 # Code
 The main code has been open-sourced. The video modality feature extraction is in `video_extract`, audio modality feature extraction is in `audio_extract`, facial expression feature extraction is in `face_extract`, and text is in `text_extract`. The multimodal fusion uses MHCA in the `model` folder. 
+# Cite
+If you plan to apply or extend our work, please cite the following paper.
+```bibtex
+@misc{wang2024patronizingcondescendinglanguagechinese,
+      title={Towards Patronizing and Condescending Language in Chinese Videos: A Multimodal Dataset and Detector}, 
+      author={Hongbo Wang and Junyu Lu and Yan Han and Kai Ma and Liang Yang and Hongfei Lin},
+      year={2024},
+      eprint={2409.05005},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2409.05005}, 
+}
+```
 # Updating
 The code will be updated after the article is accepted.
