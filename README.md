@@ -20,6 +20,4 @@ You can download the dataset `Annotation.csv` for detailed annotation.
 # Code
 The main code has been open-sourced. The video modality feature extraction is in `video_extract`, audio modality feature extraction is in `audio_extract`, facial expression feature extraction is in `face_extract`, and text is in `text_extract`. The multimodal fusion uses MHCA in the `model` folder. 
 # Updating
-The code is still being improved
-
-Please wait for future updates for successful execution.
+The code will be updated after the article is accepted.
