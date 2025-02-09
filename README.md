@@ -15,7 +15,6 @@
 **February 9, 2025** – 🔥 The [Annotation_Link.csv](https://github.com/dut-laowang/PCLMM/blob/main/data/Annotation_Link.csv) containing the original video links has been updated.
 
 # Dataset
-We have uploaded the original link of the video corresponding to each annotation in the file **data/ Annotation_Link**. Some links have been marked as "privacy limitation" due to copyright issues.
 
 The PCLMM dataset can be downloaded at https://doi.org/10.5281/zenodo.13710863
 
