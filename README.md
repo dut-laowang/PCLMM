@@ -12,11 +12,16 @@
  ![Our framework for this paper.](https://github.com/dut-laowang/PCLMM/blob/main/figure/P8.PNG)
  
 # Dataset
+We have uploaded the original link of the video corresponding to each annotation in the file **data/ Annotation_Link**. Some links have been marked as "privacy limitation" due to copyright issues.
+
 The PCLMM dataset can be downloaded at https://doi.org/10.5281/zenodo.13710863
 
 PCLMM - 715 annotated videos from chinese platform Bilibili 
 
 You can download the dataset `Annotation.csv` for detailed annotation.
+
+The collection of this dataset follows Bilibili's Developer Agreement and Privacy Policy, with all data sourced from publicly available Bilibili video links. Please comply with Bilibili's relevant usage regulations when using this dataset to avoid any negative impact on the platform's services.
+
 # Code
 The main code has been open-sourced. The video modality feature extraction is in `video_extract`, audio modality feature extraction is in `audio_extract`, facial expression feature extraction is in `face_extract`, and text is in `text_extract`. The multimodal fusion uses MHCA in the `model` folder. 
 # Cite
@@ -33,4 +38,4 @@ If you plan to apply or extend our work, please cite the following paper.
 }
 ```
 # Updating
-The code will be updated after the article is accepted.
+**February 9, 2025** – The Annotation_Link.csv containing the original video links has been updated.
