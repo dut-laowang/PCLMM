@@ -24,7 +24,7 @@ You can download the dataset `Annotation.csv` for detailed annotation.
 
 The collection of this dataset follows Bilibili's Developer Agreement and Privacy Policy, with all data sourced from publicly available Bilibili video links. Please comply with Bilibili's relevant usage regulations when using this dataset to avoid any negative impact on the platform's services.
 
-# Code
+# Code (Updating)
 The main code has been open-sourced. The video modality feature extraction is in `video_extract`, audio modality feature extraction is in `audio_extract`, facial expression feature extraction is in `face_extract`, and text is in `text_extract`. The multimodal fusion uses MHCA in the `model` folder. 
 # Cite
 If you plan to apply or extend our work, please cite the following paper.
