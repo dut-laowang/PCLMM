@@ -24,7 +24,7 @@ transform = transforms.Compose([
 
 def save_features_as_p(features, video_name, subfolder):
     """Save extracted features as .p file"""
-    output_dir = f'/root/autodl-tmp/VIT_features/{subfolder}'
+    output_dir = f'/root/autodl-tmp/features/VIT_features/{subfolder}'
     os.makedirs(output_dir, exist_ok=True)
     output_path = os.path.join(output_dir, f'{video_name}.p')
     with open(output_path, 'wb') as f:
