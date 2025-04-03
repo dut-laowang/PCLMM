@@ -72,7 +72,7 @@ Download the PCLMM and place it at `/root/autodl-tmp/PCLMM`（**you can remove `
 
 ## Text Feature Extraction
 
-1. Download the BERT-Chinese model weights and place them at `/root/autodl-tmp/code/bert_chinese`.
+1. Download the BERT-Chinese model weights [https://huggingface.co/google-bert/bert-base-chinese](https://huggingface.co/google-bert/bert-base-chinese) and place them at `/root/autodl-tmp/code/bert_chinese`.
 2. Run the following command to extract the transcribed text:
 
    ```bash
