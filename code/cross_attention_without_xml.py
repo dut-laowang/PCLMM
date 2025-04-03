@@ -136,7 +136,7 @@ text_folder = '/root/autodl-tmp/features/TEXT_features'
 audio_folder = '/root/autodl-tmp/features/AUDIO_features'
 video_folder = '/root/autodl-tmp/features/VIT_features'
 face_folder = '/root/autodl-tmp/features/extracted_features_without_xml'
-annotation_csv = '/root/autodl-tmp/Annotation.csv'
+annotation_csv = '/root/autodl-tmp/code/Annotation.csv'
 
 # 加载特征和标签
 text_features, audio_features, video_features, face_features, labels, subsets, missing_modalities = load_features_and_labels(
