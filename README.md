@@ -123,4 +123,4 @@ If you plan to apply or extend our work, please cite the following paper.
 }
 ```
 # Poster (ICASSP 2025)
-![Poster.](https://github.com/dut-laowang/PCLMM/blob/main/figure/ICASSP_poster_01.PNG)
+![Poster.](https://github.com/dut-laowang/PCLMM/blob/main/figure/ICASSP_poster_01.png)
