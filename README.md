@@ -113,13 +113,12 @@ To perform feature fusion, run:
 # Cite
 If you plan to apply or extend our work, please cite the following paper.
 ```bibtex
-@misc{wang2024patronizingcondescendinglanguagechinese,
-      title={Towards Patronizing and Condescending Language in Chinese Videos: A Multimodal Dataset and Detector}, 
-      author={Hongbo Wang and Junyu Lu and Yan Han and Kai Ma and Liang Yang and Hongfei Lin},
-      year={2024},
-      eprint={2409.05005},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2409.05005}, 
+@inproceedings{wang2025towards,
+  title={Towards patronizing and condescending language in chinese videos: A multimodal dataset and detector},
+  author={Wang, Hongbo and Lu, Junyu and Han, Yan and Ma, Kai and Yang, Liang and Lin, Hongfei},
+  booktitle={ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1--5},
+  year={2025},
+  organization={IEEE}
 }
 ```
