@@ -18,7 +18,7 @@
 
 # Dataset
 
-The PCLMM dataset can be downloaded at [https://zenodo.org/records/14840197](https://zenodo.org/records/14840197)
+The PCLMM dataset can be downloaded at [https://zenodo.org/records/15128981](https://zenodo.org/records/15128981)
 
 The PCLMM dataset is sourced from Bilibili, the largest online community for young people in China. Our work aims to uncover microaggressions targeted at vulnerable groups, including discriminatory and patronizing language expressions (715 annotated videos). 
 
