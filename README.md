@@ -29,7 +29,7 @@ The collection of this dataset follows Bilibili's Developer Agreement and Privac
 # Code
 
 ## Dataset
-Download the PCLMM and place it at `/root/autodl-tmp/PCLMM`.
+Download the PCLMM and place it at `/root/autodl-tmp/PCLMM`（**you can remove `/autodl-tmp` in your study**）.
 
 ## Video Feature Extraction
 
