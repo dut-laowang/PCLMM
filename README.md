@@ -1,7 +1,7 @@
 # PCLMM
  The code implementation for the article "Towards Patronizing and Condescending Language in Chinese Videos: A Multimodal Dataset and Framework". The paper is **accepted by ICASSP 2025**, and the code is now released.
 
- The link for this paper in arxiv is https://arxiv.org/abs/2409.05005
+ The link for this paper is [https://ieeexplore.ieee.org/abstract/document/10890580](https://ieeexplore.ieee.org/abstract/document/10890580)
  
  a) Data Collection. Refining annotation guidelines and gathering data from Bilibili. 
  
@@ -22,9 +22,12 @@ The PCLMM dataset can be downloaded at [https://zenodo.org/records/14840197](htt
 
 The PCLMM dataset is sourced from Bilibili, the largest online community for young people in China. Our work aims to uncover microaggressions targeted at vulnerable groups, including discriminatory and patronizing language expressions (715 annotated videos). 
 
-You can download the dataset `Annotation_Link.csv` for detailed annotation.
+You can download `Annotation_Link.csv` for detailed annotation.
+You can use `Annotation_Subset.csv` `Annotation.csv` for the experiment. 
 
-The collection of this dataset follows Bilibili's Developer Agreement and Privacy Policy, with all data sourced from publicly available Bilibili video links. Please comply with Bilibili's relevant usage regulations when using this dataset to avoid any negative impact on the platform's services.
+> **Note:**  
+> _The collection of this dataset follows Bilibili's Developer Agreement and Privacy Policy, with all data sourced from publicly available Bilibili video links. Please comply with Bilibili's relevant usage regulations when using this dataset to avoid any negative impact on the platform's services._
+
 
 # Code
 
